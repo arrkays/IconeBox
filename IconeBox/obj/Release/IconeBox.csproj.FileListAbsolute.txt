@@ -1,0 +1,15 @@
+C:\Users\Arrkays\Documents\Visual Studio 2015\Projects\IconeBox\IconeBox\bin\Release\IconeBox.exe.config
+C:\Users\Arrkays\Documents\Visual Studio 2015\Projects\IconeBox\IconeBox\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Arrkays\Documents\Visual Studio 2015\Projects\IconeBox\IconeBox\obj\Release\Interop.Shell32.dll
+C:\Users\Arrkays\Documents\Visual Studio 2015\Projects\IconeBox\IconeBox\obj\Release\IconeBox.csproj.ResolveComReference.cache
+C:\Users\Arrkays\Documents\Visual Studio 2015\Projects\IconeBox\IconeBox\bin\Release\IconeBox.exe
+C:\Users\Arrkays\Documents\Visual Studio 2015\Projects\IconeBox\IconeBox\bin\Release\IconeBox.pdb
+C:\Users\Arrkays\Documents\Visual Studio 2015\Projects\IconeBox\IconeBox\bin\Release\Newtonsoft.Json.dll
+C:\Users\Arrkays\Documents\Visual Studio 2015\Projects\IconeBox\IconeBox\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Arrkays\Documents\Visual Studio 2015\Projects\IconeBox\IconeBox\bin\Release\Newtonsoft.Json.xml
+C:\Users\Arrkays\Documents\Visual Studio 2015\Projects\IconeBox\IconeBox\obj\Release\IconeBox.Box.resources
+C:\Users\Arrkays\Documents\Visual Studio 2015\Projects\IconeBox\IconeBox\obj\Release\IconeBox.Notif.resources
+C:\Users\Arrkays\Documents\Visual Studio 2015\Projects\IconeBox\IconeBox\obj\Release\IconeBox.Properties.Resources.resources
+C:\Users\Arrkays\Documents\Visual Studio 2015\Projects\IconeBox\IconeBox\obj\Release\IconeBox.csproj.GenerateResource.Cache
+C:\Users\Arrkays\Documents\Visual Studio 2015\Projects\IconeBox\IconeBox\obj\Release\IconeBox.exe
+C:\Users\Arrkays\Documents\Visual Studio 2015\Projects\IconeBox\IconeBox\obj\Release\IconeBox.pdb

@@ -1,0 +1,16 @@
+c:\users\arrkays\documents\visual studio 2015\Projects\IconeBox\IconeBox\bin\Debug\IconeBox.exe.config
+c:\users\arrkays\documents\visual studio 2015\Projects\IconeBox\IconeBox\bin\Debug\IconeBox.exe
+c:\users\arrkays\documents\visual studio 2015\Projects\IconeBox\IconeBox\bin\Debug\IconeBox.pdb
+c:\users\arrkays\documents\visual studio 2015\Projects\IconeBox\IconeBox\obj\Debug\IconeBox.csprojResolveAssemblyReference.cache
+c:\users\arrkays\documents\visual studio 2015\Projects\IconeBox\IconeBox\obj\Debug\IconeBox.Properties.Resources.resources
+c:\users\arrkays\documents\visual studio 2015\Projects\IconeBox\IconeBox\obj\Debug\IconeBox.csproj.GenerateResource.Cache
+c:\users\arrkays\documents\visual studio 2015\Projects\IconeBox\IconeBox\obj\Debug\IconeBox.exe
+c:\users\arrkays\documents\visual studio 2015\Projects\IconeBox\IconeBox\obj\Debug\IconeBox.pdb
+C:\Users\Arrkays\Documents\Visual Studio 2015\Projects\IconeBox\IconeBox\obj\Debug\IconeBox.Box.resources
+C:\Users\Arrkays\documents\visual studio 2015\Projects\IconeBox\IconeBox\obj\Debug\Interop.Shell32.dll
+C:\Users\Arrkays\documents\visual studio 2015\Projects\IconeBox\IconeBox\obj\Debug\IconeBox.csproj.ResolveComReference.cache
+C:\Users\Arrkays\documents\visual studio 2015\Projects\IconeBox\IconeBox\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Arrkays\documents\visual studio 2015\Projects\IconeBox\IconeBox\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arrkays\documents\visual studio 2015\Projects\IconeBox\IconeBox\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Arrkays\documents\visual studio 2015\Projects\IconeBox\IconeBox\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arrkays\documents\visual studio 2015\Projects\IconeBox\IconeBox\obj\Debug\IconeBox.Notif.resources
