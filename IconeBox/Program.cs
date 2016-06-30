@@ -34,13 +34,16 @@ namespace IconeBox
         [STAThread]
         static void Main(string[] args)
         {
-            /*
+
             //parametre
-            groupe = args[0];
-            PathServerIconBox = args[1];
-            */
-            groupe = "cdi";
-            PathServerIconBox = @"\\DISKSTATION\public\logiciel\admin\iconBox";
+            try
+            {
+                groupe = args[0];
+                PathServerIconBox = args[1];
+            }
+            catch { }
+            //groupe = "cdi";
+            //PathServerIconBox = @"\\DISKSTATION\public\logiciel\admin\iconBox";
             app = appdata + I + appName + I + groupe;
 
             Application.EnableVisualStyles();
